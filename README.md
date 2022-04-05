@@ -5,3 +5,10 @@
       
 ### Video Link:
       
+     
+### Part-1 Question-2
+       https://github.com/Aaric-hub/chrome_review.git
+       
+### Alternate Solution for the Part-1 Question-2:
+      https://github.com/Aaric-hub/reviews.git
+      
